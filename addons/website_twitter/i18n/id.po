@@ -216,7 +216,8 @@ msgstr ""
 msgid ""
 "The request is understood, but it has been refused or access is not allowed."
 " Please check your Twitter API Key and Secret."
-msgstr ""
+msgstr "Permintaan dipahami, tetapi telah ditolak atau akses tidak diperbolehkan.”
+“Silakan periksa Twitter API Key anda dan rahasia."
 
 #. module: website_twitter
 #: code:addons/website_twitter/models/twitter_config.py:37
@@ -224,13 +225,14 @@ msgstr ""
 msgid ""
 "The request was invalid or cannot be otherwise served. Requests without "
 "authentication are considered invalid and will yield this response."
-msgstr ""
+msgstr "Permintaan itu tidak sah atau tidak dapat dilaksanakan. Permintaan ”
+“tanpa otentikasi dianggap tidak sah dan akan menghasilkan respon ini."
 
 #. module: website_twitter
 #: code:addons/website_twitter/models/twitter_config.py:36
 #, python-format
 msgid "There was no new data to return."
-msgstr ""
+msgstr "Tidak ada data baru untuk dikembalikan.”
 
 #. module: website_twitter
 #: model:ir.model.fields,field_description:website_twitter.field_website_twitter_tweet_tweet_id
@@ -310,7 +312,7 @@ msgstr ""
 msgid ""
 "Twitter seems broken. Please retry later. You may consider posting an issue "
 "on Twitter forums to get help."
-msgstr ""
+msgstr "Twitter tampaknya rusak . Silakan coba lagi nanti . Anda dapat ” “mempertimbangkan posting masalah di forum Twitter untuk mendapatkan bantuan .”
 
 #. module: website_twitter
 #: code:addons/website_twitter/controllers/main.py:36
@@ -325,7 +327,7 @@ msgstr "Twitter user @%(username)s Twitter memiliki kurang dari 12 favorit tweet
 #: code:addons/website_twitter/models/twitter_config.py:62
 #, python-format
 msgid "We failed to reach a twitter server."
-msgstr ""
+msgstr "Kami gagal mencapai server twitter"
 
 #. module: website_twitter
 #: model:ir.model,name:website_twitter.model_website
